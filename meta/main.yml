@@ -4,8 +4,5 @@ galaxy_info:
   company: Factr
   license: BSD
   min_ansible_version: 1.2
-  platforms:
-    - name: Ubuntu
-      - xenial
   galaxy_tags: []
 dependencies: []
